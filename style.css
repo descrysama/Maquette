@@ -1,0 +1,95 @@
+.container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.section2{
+    margin-top: 5%;
+}
+
+.container2{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+#un{
+    background-color: #D7D7D7;
+    padding-top: 15px;
+    width: 250px;
+    height: 130px;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+#deux{
+    background-color: #D7D7D7;
+    padding-top: 15px;
+    width: 250px;
+    height: 130px;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+#trois{
+    background-color: #D7D7D7;
+    padding-top: 15px;
+    width: 250px;
+    height: 130px;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.smallContainer{
+    height: 150px;
+}
+
+.font{
+    background-color: #02A7F0;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: -25px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    height: 210px;
+    width: 300px;
+    margin-bottom: -5px;
+}
+
+h2{
+    color: #F59A24;
+    font-weight: bold;
+    font-family: 'DM Serif Text', serif;
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+}
+
+.captions{
+    width: 300px;
+    height: 130px;
+    background-color: #FDEAD2;
+    position: relative;
+    animation-name: move;
+    animation-duration: 4s;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+i{
+    font-size: 2em;
+    color: white;
+}
